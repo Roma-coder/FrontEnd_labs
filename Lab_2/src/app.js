@@ -9,3 +9,6 @@ const  form = new RegistrationForm('Form', 'formWrapper');
 
 const node = document.querySelector('#main');
 form.render(node);
+
+
+
